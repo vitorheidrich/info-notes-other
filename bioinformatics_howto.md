@@ -75,7 +75,17 @@ My guess is that I can do the same with other IDES, such as Visual Studio.
 
 TBL
 
+## How to change user ownership for a file/directory 
 
+You have a folder created by someone else or you want to pass some data to someone else. 
+
+```
+# change the owner
+sudo chown <owner> <file> 
+
+# change the group, the group of users that can modify it 
+sudo chgrp <group> <file>
+```
 
 
 

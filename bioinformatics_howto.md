@@ -86,6 +86,20 @@ sudo chown <owner> <file>
 # change the group, the group of users that can modify it 
 sudo chgrp <group> <file>
 ```
+## How to convert a png to a pdf
+
+In Ubuntu if you have imagemagick it is quite straightforward: 
+
+```
+convert file.png file.pdf
+```
+In Mac it is even easier with preview. 
+
+## How to merge together multiple pdfs together
+
+```
+pdfunite file1.pdf file2.pdf here.pdf
+```
 
 
 

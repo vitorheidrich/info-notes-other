@@ -46,7 +46,7 @@ I don't have an specific starting point. This [carprentries course](https://swca
 
 Given that we usually work with hundreds of thousands of taxa, that we have to process millions of reads and that we are measuring all that through gradients of environmental parameters, knowing statistics is a must to gain some real knowledge of the system.
 
-Susan P. Holes and Wolfgang Huber have created a detailed book to discuss the overall topics of the present biology, called [Modern Statistics for Modern biology](https://www.huber.embl.de/msmb/05-chap.html). It is a must!
+Susan P. Holmes and Wolfgang Huber have created a detailed book to discuss the overall topics of the present biology, called [Modern Statistics for Modern biology](https://www.huber.embl.de/msmb). It is a must!
 
 If you feel that the content of the last book is too much, you can start with [OpenIntro Statistics](https://www.openintro.org/book/os/). The pdf is for free and covers a nice intro
 
@@ -70,7 +70,7 @@ These are the most important from my point of view and that deserve to be read f
 |------------------------|-----------------------------------------------|
 | [The Unix Shell carpentry](https://swcarpentry.github.io/shell-novice/)             | Shell                                          |
 | [R for Data Science](https://r4ds.had.co.nz/)                                       | R wrangling                                    |
-| [Modern Statistics for Modern biology](https://www.huber.embl.de/msmb/05-chap.html) | Statisics for the modern world we live in      |
+| [Modern Statistics for Modern biology](https://www.huber.embl.de/msmb) | Statisics for the modern world we live in      |
 | [Microbial 'Omics: An introduction](https://merenlab.org/momics/#week-2)            | Microbial omics concepts really well explained |
 
 I hope it was helpful!
